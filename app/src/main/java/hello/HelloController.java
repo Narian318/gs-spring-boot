@@ -8,6 +8,6 @@ public class HelloController {
     
     @RequestMapping("/")
     public String index() {
-        return "Hello from Srini!";
+        return "Hi to All, This is Narendra, Azure Expert";
     }   
 }
